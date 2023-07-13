@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\07. Interest\bin\Debug\net5.0\07. Interest.exe
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\07. Interest\bin\Debug\net5.0\07. Interest.deps.json
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\07. Interest\bin\Debug\net5.0\07. Interest.runtimeconfig.json
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\07. Interest\bin\Debug\net5.0\07. Interest.runtimeconfig.dev.json
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\07. Interest\bin\Debug\net5.0\07. Interest.dll
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\07. Interest\bin\Debug\net5.0\07. Interest.pdb
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\07. Interest\obj\Debug\net5.0\07. Interest.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\07. Interest\obj\Debug\net5.0\07. Interest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\07. Interest\obj\Debug\net5.0\07. Interest.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\07. Interest\obj\Debug\net5.0\07. Interest.AssemblyInfo.cs
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\07. Interest\obj\Debug\net5.0\07. Interest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\07. Interest\obj\Debug\net5.0\07. Interest.dll
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\07. Interest\obj\Debug\net5.0\refint\07. Interest.dll
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\07. Interest\obj\Debug\net5.0\07. Interest.pdb
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\07. Interest\obj\Debug\net5.0\07. Interest.genruntimeconfig.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\07. Interest\obj\Debug\net5.0\ref\07. Interest.dll

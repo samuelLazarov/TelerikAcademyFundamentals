@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\03. Rectangle Area\bin\Debug\net5.0\03. Rectangle Area.exe
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\03. Rectangle Area\bin\Debug\net5.0\03. Rectangle Area.deps.json
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\03. Rectangle Area\bin\Debug\net5.0\03. Rectangle Area.runtimeconfig.json
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\03. Rectangle Area\bin\Debug\net5.0\03. Rectangle Area.runtimeconfig.dev.json
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\03. Rectangle Area\bin\Debug\net5.0\03. Rectangle Area.dll
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\03. Rectangle Area\bin\Debug\net5.0\03. Rectangle Area.pdb
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\03. Rectangle Area\obj\Debug\net5.0\03. Rectangle Area.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\03. Rectangle Area\obj\Debug\net5.0\03. Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\03. Rectangle Area\obj\Debug\net5.0\03. Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\03. Rectangle Area\obj\Debug\net5.0\03. Rectangle Area.AssemblyInfo.cs
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\03. Rectangle Area\obj\Debug\net5.0\03. Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\03. Rectangle Area\obj\Debug\net5.0\03. Rectangle Area.dll
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\03. Rectangle Area\obj\Debug\net5.0\refint\03. Rectangle Area.dll
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\03. Rectangle Area\obj\Debug\net5.0\03. Rectangle Area.pdb
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\03. Rectangle Area\obj\Debug\net5.0\03. Rectangle Area.genruntimeconfig.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\03. Rectangle Area\obj\Debug\net5.0\ref\03. Rectangle Area.dll

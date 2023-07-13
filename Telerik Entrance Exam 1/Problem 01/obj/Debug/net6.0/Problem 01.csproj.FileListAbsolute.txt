@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\TelerikAcademyFundamentals\Telerik Entrance Exam 1\Problem 01\bin\Debug\net6.0\Problem 01.exe
+C:\Users\User\source\repos\TelerikAcademyFundamentals\Telerik Entrance Exam 1\Problem 01\bin\Debug\net6.0\Problem 01.deps.json
+C:\Users\User\source\repos\TelerikAcademyFundamentals\Telerik Entrance Exam 1\Problem 01\bin\Debug\net6.0\Problem 01.runtimeconfig.json
+C:\Users\User\source\repos\TelerikAcademyFundamentals\Telerik Entrance Exam 1\Problem 01\bin\Debug\net6.0\Problem 01.dll
+C:\Users\User\source\repos\TelerikAcademyFundamentals\Telerik Entrance Exam 1\Problem 01\bin\Debug\net6.0\Problem 01.pdb
+C:\Users\User\source\repos\TelerikAcademyFundamentals\Telerik Entrance Exam 1\Problem 01\obj\Debug\net6.0\Problem 01.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\Telerik Entrance Exam 1\Problem 01\obj\Debug\net6.0\Problem 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TelerikAcademyFundamentals\Telerik Entrance Exam 1\Problem 01\obj\Debug\net6.0\Problem 01.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\Telerik Entrance Exam 1\Problem 01\obj\Debug\net6.0\Problem 01.AssemblyInfo.cs
+C:\Users\User\source\repos\TelerikAcademyFundamentals\Telerik Entrance Exam 1\Problem 01\obj\Debug\net6.0\Problem 01.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\Telerik Entrance Exam 1\Problem 01\obj\Debug\net6.0\Problem 01.dll
+C:\Users\User\source\repos\TelerikAcademyFundamentals\Telerik Entrance Exam 1\Problem 01\obj\Debug\net6.0\refint\Problem 01.dll
+C:\Users\User\source\repos\TelerikAcademyFundamentals\Telerik Entrance Exam 1\Problem 01\obj\Debug\net6.0\Problem 01.pdb
+C:\Users\User\source\repos\TelerikAcademyFundamentals\Telerik Entrance Exam 1\Problem 01\obj\Debug\net6.0\Problem 01.genruntimeconfig.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\Telerik Entrance Exam 1\Problem 01\obj\Debug\net6.0\ref\Problem 01.dll

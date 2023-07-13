@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\02. Hello you\bin\Debug\net5.0\02. Hello you.exe
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\02. Hello you\bin\Debug\net5.0\02. Hello you.deps.json
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\02. Hello you\bin\Debug\net5.0\02. Hello you.runtimeconfig.json
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\02. Hello you\bin\Debug\net5.0\02. Hello you.runtimeconfig.dev.json
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\02. Hello you\bin\Debug\net5.0\02. Hello you.dll
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\02. Hello you\bin\Debug\net5.0\02. Hello you.pdb
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\02. Hello you\obj\Debug\net5.0\02. Hello you.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\02. Hello you\obj\Debug\net5.0\02. Hello you.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\02. Hello you\obj\Debug\net5.0\02. Hello you.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\02. Hello you\obj\Debug\net5.0\02. Hello you.AssemblyInfo.cs
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\02. Hello you\obj\Debug\net5.0\02. Hello you.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\02. Hello you\obj\Debug\net5.0\02. Hello you.dll
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\02. Hello you\obj\Debug\net5.0\refint\02. Hello you.dll
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\02. Hello you\obj\Debug\net5.0\02. Hello you.pdb
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\02. Hello you\obj\Debug\net5.0\02. Hello you.genruntimeconfig.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\02. Hello you\obj\Debug\net5.0\ref\02. Hello you.dll

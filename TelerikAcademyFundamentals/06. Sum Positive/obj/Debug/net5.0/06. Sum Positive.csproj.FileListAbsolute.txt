@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\06. Sum Positive\bin\Debug\net5.0\06. Sum Positive.exe
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\06. Sum Positive\bin\Debug\net5.0\06. Sum Positive.deps.json
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\06. Sum Positive\bin\Debug\net5.0\06. Sum Positive.runtimeconfig.json
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\06. Sum Positive\bin\Debug\net5.0\06. Sum Positive.runtimeconfig.dev.json
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\06. Sum Positive\bin\Debug\net5.0\06. Sum Positive.dll
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\06. Sum Positive\bin\Debug\net5.0\06. Sum Positive.pdb
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\06. Sum Positive\obj\Debug\net5.0\06. Sum Positive.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\06. Sum Positive\obj\Debug\net5.0\06. Sum Positive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\06. Sum Positive\obj\Debug\net5.0\06. Sum Positive.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\06. Sum Positive\obj\Debug\net5.0\06. Sum Positive.AssemblyInfo.cs
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\06. Sum Positive\obj\Debug\net5.0\06. Sum Positive.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\06. Sum Positive\obj\Debug\net5.0\06. Sum Positive.dll
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\06. Sum Positive\obj\Debug\net5.0\refint\06. Sum Positive.dll
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\06. Sum Positive\obj\Debug\net5.0\06. Sum Positive.pdb
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\06. Sum Positive\obj\Debug\net5.0\06. Sum Positive.genruntimeconfig.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\06. Sum Positive\obj\Debug\net5.0\ref\06. Sum Positive.dll

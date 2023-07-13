@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Hello, Telerik Academy", "01. Hello, Telerik Academy\01. Hello, Telerik Academy.csproj", "{A79B212C-5326-43FF-B79A-13113AC62612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Hello you", "02. Hello you\02. Hello you.csproj", "{46AC1817-AC18-487E-9579-DFDD9DD7D127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Rectangle Area", "03. Rectangle Area\03. Rectangle Area.csproj", "{66189A1F-C2AF-4542-80C9-6BAB291CB774}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Bottle Deposit", "04. Bottle Deposit\04. Bottle Deposit.csproj", "{5188C0F1-8EDF-4361-964F-60EE52998363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Tips", "05. Tips\05. Tips.csproj", "{EBC7B863-268B-4CE9-AACA-54744629A763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Sum Positive", "06. Sum Positive\06. Sum Positive.csproj", "{E9B90DBE-9745-471B-AAEA-79074422AC35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Interest", "07. Interest\07. Interest.csproj", "{8E5C75FD-0148-4611-9BCA-9A3198386500}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A79B212C-5326-43FF-B79A-13113AC62612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79B212C-5326-43FF-B79A-13113AC62612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79B212C-5326-43FF-B79A-13113AC62612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79B212C-5326-43FF-B79A-13113AC62612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46AC1817-AC18-487E-9579-DFDD9DD7D127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46AC1817-AC18-487E-9579-DFDD9DD7D127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46AC1817-AC18-487E-9579-DFDD9DD7D127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46AC1817-AC18-487E-9579-DFDD9DD7D127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66189A1F-C2AF-4542-80C9-6BAB291CB774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66189A1F-C2AF-4542-80C9-6BAB291CB774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66189A1F-C2AF-4542-80C9-6BAB291CB774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66189A1F-C2AF-4542-80C9-6BAB291CB774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5188C0F1-8EDF-4361-964F-60EE52998363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5188C0F1-8EDF-4361-964F-60EE52998363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5188C0F1-8EDF-4361-964F-60EE52998363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5188C0F1-8EDF-4361-964F-60EE52998363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC7B863-268B-4CE9-AACA-54744629A763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC7B863-268B-4CE9-AACA-54744629A763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC7B863-268B-4CE9-AACA-54744629A763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC7B863-268B-4CE9-AACA-54744629A763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9B90DBE-9745-471B-AAEA-79074422AC35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B90DBE-9745-471B-AAEA-79074422AC35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B90DBE-9745-471B-AAEA-79074422AC35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B90DBE-9745-471B-AAEA-79074422AC35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E5C75FD-0148-4611-9BCA-9A3198386500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5C75FD-0148-4611-9BCA-9A3198386500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5C75FD-0148-4611-9BCA-9A3198386500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5C75FD-0148-4611-9BCA-9A3198386500}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A420F445-619D-4380-9AA6-34D5D4BEBCD0}
+	EndGlobalSection
+EndGlobal

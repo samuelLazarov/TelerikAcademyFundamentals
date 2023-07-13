@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\04. Bottle Deposit\bin\Debug\net5.0\04. Bottle Deposit.exe
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\04. Bottle Deposit\bin\Debug\net5.0\04. Bottle Deposit.deps.json
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\04. Bottle Deposit\bin\Debug\net5.0\04. Bottle Deposit.runtimeconfig.json
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\04. Bottle Deposit\bin\Debug\net5.0\04. Bottle Deposit.runtimeconfig.dev.json
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\04. Bottle Deposit\bin\Debug\net5.0\04. Bottle Deposit.dll
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\04. Bottle Deposit\bin\Debug\net5.0\04. Bottle Deposit.pdb
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\04. Bottle Deposit\obj\Debug\net5.0\04. Bottle Deposit.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\04. Bottle Deposit\obj\Debug\net5.0\04. Bottle Deposit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\04. Bottle Deposit\obj\Debug\net5.0\04. Bottle Deposit.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\04. Bottle Deposit\obj\Debug\net5.0\04. Bottle Deposit.AssemblyInfo.cs
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\04. Bottle Deposit\obj\Debug\net5.0\04. Bottle Deposit.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\04. Bottle Deposit\obj\Debug\net5.0\04. Bottle Deposit.dll
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\04. Bottle Deposit\obj\Debug\net5.0\refint\04. Bottle Deposit.dll
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\04. Bottle Deposit\obj\Debug\net5.0\04. Bottle Deposit.pdb
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\04. Bottle Deposit\obj\Debug\net5.0\04. Bottle Deposit.genruntimeconfig.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\04. Bottle Deposit\obj\Debug\net5.0\ref\04. Bottle Deposit.dll

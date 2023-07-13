@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\05. Tips\bin\Debug\net5.0\05. Tips.exe
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\05. Tips\bin\Debug\net5.0\05. Tips.deps.json
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\05. Tips\bin\Debug\net5.0\05. Tips.runtimeconfig.json
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\05. Tips\bin\Debug\net5.0\05. Tips.runtimeconfig.dev.json
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\05. Tips\bin\Debug\net5.0\05. Tips.dll
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\05. Tips\bin\Debug\net5.0\05. Tips.pdb
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\05. Tips\obj\Debug\net5.0\05. Tips.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\05. Tips\obj\Debug\net5.0\05. Tips.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\05. Tips\obj\Debug\net5.0\05. Tips.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\05. Tips\obj\Debug\net5.0\05. Tips.AssemblyInfo.cs
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\05. Tips\obj\Debug\net5.0\05. Tips.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\05. Tips\obj\Debug\net5.0\05. Tips.dll
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\05. Tips\obj\Debug\net5.0\refint\05. Tips.dll
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\05. Tips\obj\Debug\net5.0\05. Tips.pdb
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\05. Tips\obj\Debug\net5.0\05. Tips.genruntimeconfig.cache
+C:\Users\User\source\repos\TelerikAcademyFundamentals\TelerikAcademyFundamentals\05. Tips\obj\Debug\net5.0\ref\05. Tips.dll
